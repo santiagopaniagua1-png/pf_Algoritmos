@@ -41,6 +41,10 @@ Convertirse en una solución tecnológica líder en la gestión de préstamos de
 
 A futuro, BorrowMind busca evolucionar hacia una plataforma más completa e intuitiva, integrando nuevas funcionalidades, interfaces más amigables y posibles aplicaciones web o móviles que amplíen su alcance y utilidad.
 
+<p align="center">
+  <img src="assets/Prototipo1.jpeg" width="250">
+</p>
+
 ---
 
 ## Tecnologías utilizadas

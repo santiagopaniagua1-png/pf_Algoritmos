@@ -1,5 +1,7 @@
 # BorrowMind - Sistema de Gestión de Préstamos
-
+<p align="center">
+  <img src="assets/Logo.png" width="250">
+</p>
 BorrowMind es un sistema de gestión de préstamos desarrollado en Python, diseñado para administrar usuarios, inventario, préstamos, devoluciones y procesos de control asociados al incumplimiento de tiempos de entrega. El sistema está orientado a operar mediante interfaz de consola y almacenamiento en archivos planos, garantizando persistencia de la información y trazabilidad de las operaciones realizadas.
 
 ---

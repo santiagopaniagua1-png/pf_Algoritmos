@@ -29,9 +29,17 @@ Adicionalmente, el sistema incluye funcionalidades para la generación de report
 
 ---
 
+
 ## Objetivo
 
 Desarrollar una solución de software que permita administrar el ciclo completo de préstamos de manera estructurada, aplicando principios de Programación Orientada a Objetos (POO), manejo de archivos planos y validaciones de datos, con el fin de simular un sistema real de control y gestión de activos prestados.
+
+---
+## Visión
+
+Convertirse en una solución tecnológica líder en la gestión de préstamos de objetos, reconocida por su eficiencia, confiabilidad y facilidad de uso, permitiendo a los usuarios llevar un control organizado de sus bienes y optimizar la administración de sus recursos.
+
+A futuro, BorrowMind busca evolucionar hacia una plataforma más completa e intuitiva, integrando nuevas funcionalidades, interfaces más amigables y posibles aplicaciones web o móviles que amplíen su alcance y utilidad.
 
 ---
 

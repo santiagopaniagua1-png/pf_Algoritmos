@@ -13,7 +13,7 @@ Estudiante de Ingeniería Industrial en la Universidad de Antioquia (UdeA). Actu
 
 ### Olga Lucía Andica Narváez  
 Estudiante de Ingeniería Industrial. Vinculada laboralmente a UTS Rionegro como UTS Tech Service Desk, brindando soporte técnico remoto a múltiples organizaciones. Se caracteriza por su responsabilidad, trabajo colaborativo, adaptabilidad y habilidades comunicativas que favorecen la interacción en entornos profesionales.
-Nació en Riosucio, Caldas, vive en Marinilla y tiene 28 años, actualmente cursa el cuarto semestre en la seccional de Oriente, en El Carmen de Viboral. En su tiempo libre, le gusta escuchar música, ver anime y montar en bicicleta.
+Nació en Riosucio, Caldas. Vive en Marinilla, Antioquia y tiene 28 años, actualmente cursa el cuarto semestre en la seccional de Oriente, en El Carmen de Viboral. En su tiempo libre, le gusta escuchar música, ver anime y montar en bicicleta.
 
 ### Estefanía Rivera Castaño  
 Estudiante de Ingeniería Industrial. Posee habilidades en aprendizaje autónomo, dominio de idiomas y formación en disciplinas artísticas como pintura y dibujo, además de práctica en karate. Se destaca por su disciplina, creatividad y capacidad de adaptación.

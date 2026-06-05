@@ -16,7 +16,8 @@ Estudiante de Ingeniería Industrial. Vinculada laboralmente a UTS Rionegro como
 Nació en Riosucio, Caldas. Vive en Marinilla, Antioquia y tiene 28 años, actualmente cursa el cuarto semestre en la seccional de Oriente, en El Carmen de Viboral. En su tiempo libre, le gusta escuchar música, ver anime y montar en bicicleta.
 
 ### Estefanía Rivera Castaño  
-Estudiante de Ingeniería Industrial. Posee habilidades en aprendizaje autónomo, dominio de idiomas y formación en disciplinas artísticas como pintura y dibujo, además de práctica en karate. Se destaca por su disciplina, creatividad y capacidad de adaptación.
+Estudiante de Ingeniería Industrial. Igualmente estudiante de inglés nivel B1 en el instituto Britanico de idiomas. Posee habilidades en aprendizaje autónomo, dominio de idiomas y formación en disciplinas artísticas como pintura y dibujo, además de práctica en karate. Se destaca por su disciplina, creatividad y capacidad de adaptación.
+Nació en Sicelejo, Sucre. Vive en Apartadó, Antioquia, Tiene 24 años, cursa cuarto semestre en el campus de ciecias del mar en Turbo Antioquia, tiene 2 gatos, llamados Yuri y Rem, Vive actualmente con su pareja, y en su tiempo libre disfruta de dibujar, escuchar música, leer, y ver anime.
 
 ---
 

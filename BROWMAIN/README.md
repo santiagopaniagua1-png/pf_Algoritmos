@@ -1,4 +1,4 @@
-# BROWMAIN — Sistema de Gestión de Préstamos
+# BROWMIND — Sistema de Gestión de Préstamos
 **pf_Algoritmos**
 
 Sistema de consola para gestionar préstamos de artículos, desarrollado en Python orientado a objetos.
@@ -15,7 +15,7 @@ Sistema de consola para gestionar préstamos de artículos, desarrollado en Pyth
 ## Estructura del proyecto
 
 ```
-BROWMAIN/
+BROWMIND/
 │
 ├── main.py              # Punto de entrada y menús de consola
 ├── clsUsuarios.py       # Clase clsUsuarios — gestión de usuarios

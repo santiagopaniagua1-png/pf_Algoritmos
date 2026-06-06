@@ -142,7 +142,7 @@ class clsPrestamo:
 
         contenido = f"""
 ╔══════════════════════════════════════════════════════════════════╗
-║              CERTIFICADO DE DEVOLUCIÓN - BROWNMAIN                ║
+║              CERTIFICADO DE DEVOLUCIÓN - BROWNMIND                ║
 ╚══════════════════════════════════════════════════════════════════╝
 
   Fecha de emisión  : {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}
@@ -175,10 +175,10 @@ class clsPrestamo:
   El ítem fue devuelto {'en el tiempo acordado' if dias_usados <= prestamo['dias_prestamo'] else 'FUERA del tiempo acordado'}.
 
   Este certificado confirma que el ítem ha sido devuelto
-  satisfactoriamente a brownmain.
+  satisfactoriamente a BROWNMIND.
 
                           _____________________
-                                Brownmain
+                                BROWNMIND
                                 Prestador
 
 ╚══════════════════════════════════════════════════════════════════╝
@@ -225,7 +225,7 @@ class clsPrestamo:
 
         contenido = f"""
 ╔══════════════════════════════════════════════════════════════════╗
-║                  FACTURA DE VENTA - BROWMAIN                     ║
+║                  FACTURA DE VENTA - BROWNMIND                     ║
 ╚══════════════════════════════════════════════════════════════════╝
 
   Fecha              : {fecha_ahora.strftime("%Y-%m-%d %H:%M:%S")}
@@ -264,7 +264,7 @@ class clsPrestamo:
   ¡Gracias por comprar lo que debías devolver! 😄
 
                           _____________________
-                                Brwmain
+                               BROWNMIND
                                Prestador
 ╚══════════════════════════════════════════════════════════════════╝
 """

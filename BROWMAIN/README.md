@@ -1,4 +1,4 @@
-# BROWMIND — Sistema de Gestión de Préstamos
+# BORROWMIND — Sistema de Gestión de Préstamos
 **pf_Algoritmos**
 
 Sistema de consola para gestionar préstamos de artículos, desarrollado en Python orientado a objetos.

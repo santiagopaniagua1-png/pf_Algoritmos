@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1020490547",
+        "nombre": "santiago",
+        "apellido": "paniagua",
+        "documento": "1020490547",
+        "correo": "santypc31@gmail.com",
+        "dias_prestamo": 5,
+        "fecha_registro": "2026-05-18 19:34:20"
+    },
+    {
+        "id": "123456",
+        "nombre": "andres",
+        "apellido": "cano",
+        "documento": "123456",
+        "correo": "andres@gmail.com",
+        "dias_prestamo": 5,
+        "fecha_registro": "2026-06-08 12:15:18"
+    },
+    {
+        "id": "1234",
+        "nombre": "alejo",
+        "apellido": "perez",
+        "documento": "1234",
+        "correo": "perez@gmail.com",
+        "dias_prestamo": 5,
+        "fecha_registro": "2026-06-09 19:19:48"
+    }
+]

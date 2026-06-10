@@ -1,0 +1,3 @@
+id_prestamo,documento_usuario,nombre_usuario,id_item,nombre_item,categoria_item,precio_compra,dias_prestamo,fecha_prestamo,fecha_limite,estado,fecha_devolucion,facturado
+PR-0AE47FDC,123456,andres cano,LB-004BCD,Libros,Libros,1500000.0,5,2026-06-08 12:17:17,2026-06-13 12:17:17,activo,,False
+PR-28D77004,1234,alejo perez,MV2-49DBBC,Reloj,Misceláneo y varios,150000.0,5,2026-06-09 19:26:04,2026-06-14 19:26:04,devuelto,2026-06-09 19:27:38,False

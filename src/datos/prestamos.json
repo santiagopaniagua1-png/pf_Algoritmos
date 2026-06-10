@@ -1,0 +1,50 @@
+[
+    {
+        "id_prestamo": "PR-0AE47FDC",
+        "documento_usuario": "123456",
+        "nombre_usuario": "andres cano",
+        "correo_usuario": "andres@gmail.com",
+        "id_item": "LB-004BCD",
+        "nombre_item": "Libros",
+        "categoria_item": "Libros",
+        "precio_compra": 1500000.0,
+        "dias_prestamo": 5,
+        "fecha_prestamo": "2026-02-08 12:17:17",
+        "fecha_limite": "2026-03-13 12:17:17",
+        "estado": "vendido",
+        "fecha_devolucion": null,
+        "facturado": true
+    },
+    {
+        "id_prestamo": "PR-28D77004",
+        "documento_usuario": "1234",
+        "nombre_usuario": "alejo perez",
+        "correo_usuario": "perez@gmail.com",
+        "id_item": "MV2-49DBBC",
+        "nombre_item": "Reloj",
+        "categoria_item": "Misceláneo y varios",
+        "precio_compra": 150000.0,
+        "dias_prestamo": 5,
+        "fecha_prestamo": "2026-06-09 19:26:04",
+        "fecha_limite": "2026-06-14 19:26:04",
+        "estado": "devuelto",
+        "fecha_devolucion": "2026-07-09 19:27:38",
+        "facturado": false
+    },
+    {
+        "id_prestamo": "PR-1CB29A98",
+        "documento_usuario": "1234",
+        "nombre_usuario": "alejo perez",
+        "correo_usuario": "perez@gmail.com",
+        "id_item": "MV2-49DBBC",
+        "nombre_item": "Reloj",
+        "categoria_item": "Misceláneo y varios",
+        "precio_compra": 150000.0,
+        "dias_prestamo": 5,
+        "fecha_prestamo": "2026-06-09 19:38:56",
+        "fecha_limite": "2026-06-14 19:38:56",
+        "estado": "activo",
+        "fecha_devolucion": null,
+        "facturado": false
+    }
+]

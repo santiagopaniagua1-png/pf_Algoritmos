@@ -1,0 +1,24 @@
+[
+    {
+        "id": "LB-004BCD",
+        "nombre": "Libros",
+        "categoria": "Libros",
+        "precio_compra": 1500000.0,
+        "valor_estado": 81.0,
+        "estado_difuso": "Excelente",
+        "grado_pertenencia": 0.37,
+        "disponible": false,
+        "fecha_registro": "2026-02-08 12:16:51"
+    },
+    {
+        "id": "MV2-49DBBC",
+        "nombre": "Reloj",
+        "categoria": "Misceláneo y varios",
+        "precio_compra": 150000.0,
+        "valor_estado": 80.0,
+        "estado_difuso": "Excelente",
+        "grado_pertenencia": 0.33,
+        "disponible": false,
+        "fecha_registro": "2026-02-09 19:22:48"
+    }
+]

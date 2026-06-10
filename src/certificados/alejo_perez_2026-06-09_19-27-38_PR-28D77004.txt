@@ -1,0 +1,42 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║              CERTIFICADO DE DEVOLUCIÓN - BROWNMAIN                ║
+╚══════════════════════════════════════════════════════════════════╝
+
+  Fecha de emisión  : 2026-06-09 19:27:38
+  ID de Préstamo    : PR-28D77004
+
+─────────────────────────────────────────────────────────────────
+  DATOS DEL PRESTATARIO
+─────────────────────────────────────────────────────────────────
+  Nombre            : alejo perez
+  Documento         : 1234
+  Correo            : perez@gmail.com
+
+─────────────────────────────────────────────────────────────────
+  DATOS DEL ÍTEM DEVUELTO
+─────────────────────────────────────────────────────────────────
+  ID Ítem           : MV2-49DBBC
+  Nombre            : Reloj
+  Categoría         : Misceláneo y varios
+
+─────────────────────────────────────────────────────────────────
+  DETALLES DEL PRÉSTAMO
+─────────────────────────────────────────────────────────────────
+  Fecha de préstamo : 2026-06-09 19:26:04
+  Fecha de límite   : 2026-06-14 19:26:04
+  Fecha devolución  : 2026-06-09 19:27:38
+  Días utilizados   : 0 día(s)
+  Días acordados    : 5 día(s)
+
+─────────────────────────────────────────────────────────────────
+  El ítem fue devuelto en el tiempo acordado.
+
+  Este certificado confirma que el ítem ha sido devuelto
+  satisfactoriamente a brownmain.
+
+                          _____________________
+                                Brownmain
+                                Prestador
+
+╚══════════════════════════════════════════════════════════════════╝
